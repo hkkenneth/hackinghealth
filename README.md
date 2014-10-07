@@ -12,6 +12,21 @@ However, due to limited time and human resource, the project was reduced to a pr
 1. Curators submit links via google form
 2. A server-side program picks up the update and publish the links to some facebook pages (instead of Mobile Apps)
 
+Why, How, What, What now
+---
+
+### Why?
+Information overload problem: Not everyone knows how to distinguish good v.s. bad.
+
+### How?
+Deliver user-customized health news through a channel that the user actually reads.
+
+### What?
+Deliver curated health news to users by mobile app push notification.
+
+### What now? (during hackathon)
+Proof of concept: Publishing crowd-sourced health news to Facebook pages.
+
 Details
 ---
 
@@ -35,3 +50,9 @@ The links will be published to these facebook pages depending on the selected ca
 2. https://www.facebook.com/pages/健迅通心臟/1527083510838322
 3. https://www.facebook.com/pages/健迅通長者/358595884318405
 
+Contacts
+---
+KENNETH LUI
+Software Developer / Ex-bioinformatician 
++852 6470 8798 
+hkkenneth@gmail.com
